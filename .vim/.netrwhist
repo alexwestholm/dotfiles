@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/awestholm/Projects/hireant_mvp/mvp/app/controllers/candidate'
+let g:netrw_dirhist_2='/home/awestholm/Projects/hireant_mvp/mvp/app/controllers/jobs'
+let g:netrw_dirhist_3='/home/awestholm/Projects/hireant_mvp/mvp/app/controllers/candidate'
+let g:netrw_dirhist_4='/home/awestholm/Projects/hireant_mvp/mvp/app/controllers'
+let g:netrw_dirhist_5='/home/awestholm/deploy/mvp/app/controllers/candidate'
+let g:netrw_dirhist_6='/home/awestholm/Projects/sandbox/sandbox_rails/app/models'
+let g:netrw_dirhist_7='/home/awestholm/deploy/mvp/models'
+let g:netrw_dirhist_8='/home/awestholm/Projects/hireant_mvp/mvp/app/controllers/candidate/portfolio'
